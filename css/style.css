@@ -9,7 +9,7 @@ ul {
 }
 /*====== Variaveis ======================================*/
 :root {
-    --hue: 342;
+    --hue: 1055;
     
     /* HSL color mode */
   --title-color: hsl(var(--hue) 41% 10%);
